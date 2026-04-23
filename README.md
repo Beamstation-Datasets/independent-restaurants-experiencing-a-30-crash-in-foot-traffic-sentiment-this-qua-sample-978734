@@ -1,6 +1,6 @@
 # Independent Restaurants Experiencing a 30%+ Crash in Foot Traffic & Sentiment This Quarter in Mississippi
 
-> Free BeamStation sample export with 15 rows and masked direct-contact fields.
+> Free BeamStation sample export with 17 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `978734` |
 | Location | Mississippi |
 | Category | Food and Drink |
-| Full dataset size | 155 records |
-| Free sample size | 15 records (9.68%) |
-| Last export | 2026-04-17T00:16:34.182385+00:00 |
+| Full dataset size | 178 records |
+| Free sample size | 17 records (9.55%) |
+| Last export | 2026-04-23T18:29:06.084335+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-978734/releases/download/sample-latest/beamstation_978734_food_and_drink-us-ms_SAMPLE_DIST.csv) |
 
 ## What is in this sample
